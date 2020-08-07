@@ -108,3 +108,10 @@ Dataset物件必須繼承Dataset abstract class
 ![](https://i.imgur.com/yH0HxKA.png)
 ## 我們沒有把全部圖片載入到記憶體，利用dataset class我們要照片的時候才去讀那張照片
 ![](https://i.imgur.com/PqvA8yP.png)
+![](https://i.imgur.com/8TB7csm.png)
+![](https://i.imgur.com/TnSAbtv.png)
+![](https://i.imgur.com/5lZN2T9.png)
+## Pythoch有內建一些影像處理的transform
+![](https://i.imgur.com/ORoqnSC.png)
+## Pytorch有內建的圖片庫
+![](https://i.imgur.com/Ou6kXhW.png)
